@@ -7,8 +7,4 @@
     <LangVersion>14.0</LangVersion>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Factories\" />
-  </ItemGroup>
-
 </Project>
