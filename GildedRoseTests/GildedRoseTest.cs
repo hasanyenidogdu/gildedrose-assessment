@@ -1,6 +1,7 @@
 ﻿using Xunit;
 using System.Collections.Generic;
 using GildedRoseKata;
+using GildedRoseKata.Models;
 
 namespace GildedRoseTests;
 

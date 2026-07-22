@@ -1,5 +1,5 @@
 ﻿using GildedRoseKata;
-
+using GildedRoseKata.Models;
 using System;
 using System.IO;
 using System.Text;
